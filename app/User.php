@@ -30,6 +30,6 @@ class User extends Authenticatable
 
     public static function FunctionName($value='')
     {
-    	# code...
+    	return 'working'; 
     }
 }
